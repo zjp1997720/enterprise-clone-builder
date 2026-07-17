@@ -1,0 +1,26 @@
+{
+  "canonical_repository": "zjp1997720/zhijian-skills",
+  "export_digest": "affcfe865111d4c43725fca00640c1a265cfb8c5730cc954ca3c4bf94d9e9b7c",
+  "files": {
+    ".github/workflows/redirect-contributions.yml": "07df186b56b8ad5f799ea585601d1fbec345f5cb7b3626b0755a99c2fb802502",
+    "CHANGELOG.md": "ab760b67b977debefbc124531ac2fe5ad2bd141f358ff498c09942e2666dbeb8",
+    "CONTRIBUTING.md": "c2e5f5ea8a62d4958cab579d670ff4a2614768ec4edfbbd04ef347bf71bdc402",
+    "LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
+    "README.md": "723d7087c9cccec02c5a9f68f50925a20f2d28fe5cdc7dc7602c0221e2e72e91",
+    "README.zh-CN.md": "723d7087c9cccec02c5a9f68f50925a20f2d28fe5cdc7dc7602c0221e2e72e91",
+    "skills/enterprise-clone-builder/LICENSE": "d86fc9680a49c8ec004eda05d9c6741d33addd9242a532ff6a65c215c8b01709",
+    "skills/enterprise-clone-builder/SKILL.md": "214730d3996fb1fee946c5e9128c0a662bba4cb7c13f0f70669bb93273e1cb79",
+    "skills/enterprise-clone-builder/agents/interface.yaml": "4328110daaaff3515f7fff87c9cdda8d05f5c74c3d123f891532c1e7827090f3",
+    "skills/enterprise-clone-builder/references/directory-spec.md": "bbb1ec56c792a797371609fd9ebc3c791f31eee66680240367d6d353d94daa27",
+    "skills/enterprise-clone-builder/references/extraction-guide.md": "0adcc619f383ab326bbdcb7669e21d34112a12d58828e1c1682acd97c9060a07",
+    "skills/enterprise-clone-builder/references/local-intake-guide.md": "1853afb721af0bf5afb13ab5cb55519b7292754dc827e7a5bb2c287ba1ed6bfd",
+    "skills/enterprise-clone-builder/references/voice-analysis-guide.md": "b8d76fdb15968ad1e9853b26c9e68fee60ee8a41db48926a08c2d8ef0ccb35fc",
+    "skills/enterprise-clone-builder/references/web-clipper-usage.md": "4fe3d770f9bbd2cf45b03ca50f0c34d35736cb10a18c035f2b1eb7214c3e511b"
+  },
+  "generated": true,
+  "payload_digest": "8482c27318cd734f7756f13ce94d28ef91c4b2fafc80561dc9719ada715b9a88",
+  "schema_version": "1.0.0",
+  "skill": "enterprise-clone-builder",
+  "source_commit": "33bbb003cb967ae75f9ef372438d2e6744ca278f",
+  "version": "1.0.0"
+}
