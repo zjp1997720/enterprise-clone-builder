@@ -21,6 +21,6 @@
   "payload_digest": "8482c27318cd734f7756f13ce94d28ef91c4b2fafc80561dc9719ada715b9a88",
   "schema_version": "1.0.0",
   "skill": "enterprise-clone-builder",
-  "source_commit": "33bbb003cb967ae75f9ef372438d2e6744ca278f",
+  "source_commit": "26cba9e100b37a2efe0fa161bd394db46cee5328",
   "version": "1.0.0"
 }
