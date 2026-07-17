@@ -1,13 +1,14 @@
 {
   "canonical_repository": "zjp1997720/zhijian-skills",
-  "export_digest": "affcfe865111d4c43725fca00640c1a265cfb8c5730cc954ca3c4bf94d9e9b7c",
+  "export_digest": "48e5dc501b771704f8d8712ba72299a4f3da20940f2b93aee745630bb962b5d0",
   "files": {
     ".github/workflows/redirect-contributions.yml": "07df186b56b8ad5f799ea585601d1fbec345f5cb7b3626b0755a99c2fb802502",
-    "CHANGELOG.md": "ab760b67b977debefbc124531ac2fe5ad2bd141f358ff498c09942e2666dbeb8",
-    "CONTRIBUTING.md": "c2e5f5ea8a62d4958cab579d670ff4a2614768ec4edfbbd04ef347bf71bdc402",
+    "CHANGELOG.md": "353214ead72c90de41497c5e906813ba9c8c67fd4bf5885d28f90b9bc22e60c5",
+    "CONTRIBUTING.md": "1419405f16cb6eba0f34af1642087cf75dd8b09903e25d3a414ca8634fc9308e",
     "LICENSE": "4c132f6df8bf3720921492fb26412abc98bf51eec6acbe89dbf95c8b09b8d340",
-    "README.md": "723d7087c9cccec02c5a9f68f50925a20f2d28fe5cdc7dc7602c0221e2e72e91",
-    "README.zh-CN.md": "723d7087c9cccec02c5a9f68f50925a20f2d28fe5cdc7dc7602c0221e2e72e91",
+    "README.md": "b73cd417641ede73b8f7e7d19748dcc2aa5a5a0d065d9f5bbd01b200bf1ad531",
+    "README.zh-CN.md": "791678d05e08a91a5e240cc75037709904b956d2b4a689ce35ff63a3317f2d24",
+    "assets/readme/hero.svg": "9b6b2b1a99dcc8fbf704e2172fda5e11e60c631bd993202682e7d0254d0a01bd",
     "skills/enterprise-clone-builder/LICENSE": "d86fc9680a49c8ec004eda05d9c6741d33addd9242a532ff6a65c215c8b01709",
     "skills/enterprise-clone-builder/SKILL.md": "214730d3996fb1fee946c5e9128c0a662bba4cb7c13f0f70669bb93273e1cb79",
     "skills/enterprise-clone-builder/agents/interface.yaml": "4328110daaaff3515f7fff87c9cdda8d05f5c74c3d123f891532c1e7827090f3",
@@ -21,6 +22,6 @@
   "payload_digest": "8482c27318cd734f7756f13ce94d28ef91c4b2fafc80561dc9719ada715b9a88",
   "schema_version": "1.0.0",
   "skill": "enterprise-clone-builder",
-  "source_commit": "e69c5daca7563c75fe5a44a6bf3445163f03b116",
-  "version": "1.0.0"
+  "source_commit": "30423a79ac7890bca3a9cc8592c241e3a9d91e69",
+  "version": "1.0.1"
 }
